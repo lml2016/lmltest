@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SKHeader.h"
 @interface SKBaseViewController : UIViewController
 
 @end
