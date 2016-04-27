@@ -1,18 +1,18 @@
 //
-//  BaseController.m
+//  TextController.m
 //  suiyi
 //
-//  Created by lml on 16/4/20.
+//  Created by lml on 16/4/27.
 //  Copyright © 2016年 lml. All rights reserved.
 //
 
-#import "BaseController.h"
+#import "TextController.h"
 
-@interface BaseController ()
+@interface TextController ()
 
 @end
 
-@implementation BaseController
+@implementation TextController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
