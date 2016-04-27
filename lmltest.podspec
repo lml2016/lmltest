@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "lmltest"
-  s.version          = "1.0.9"
+  s.version          = "1.1.0"
   s.summary          = "A marquee view used on iOS."
   s.description      = <<-DESC
                        It is a marquee view used on iOS, which implement by Objective-C.
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.license          = "MIT"
   s.author           = { "lml" => "lml_2015@sina.com" }
-  s.source           = { :git => "https://github.com/lml2016/lmltest.git", :tag => "1.0.9" }
+  s.source           = { :git => "https://github.com/lml2016/lmltest.git", :tag => "1.1.0" }
 
 
   s.platform     = :ios, "6.0"
